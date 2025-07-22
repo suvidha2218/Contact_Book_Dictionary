@@ -27,5 +27,5 @@ Contact added successfully!
 
 -contact: Suvidha Mankar //
 - email: suvidhamankar3@gmail.com //
-- linkdin: www.linkedin.com/in/sakshi-sable-76002b342
+- linkdin: Linkdin:www.linkedin.com/in/suvidha-mankar //
 
